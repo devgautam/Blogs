@@ -1,5 +1,5 @@
-# Project Name -- `Blogs`
----
+# Project Name - `Blogs`
+
 ## Tools & Technologies Involed
 - NodeJS, ExpressJS, Express Generator
 - MySQL, Sequelize ORM, Sequelize-CLI
