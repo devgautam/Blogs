@@ -1,15 +1,15 @@
 # Project Name - `Blogs`
 
-## Tools & Technologies Involed
-- NodeJS, ExpressJS, Express Generator
-- MySQL, Sequelize ORM, Sequelize-CLI
+## Initial Project Setup
+- Used ` express generator ` to setup nodejs project skeleton
+- Used ` MySQL ` DB managed by ` Sequelize ORM ` with ` Sequelize CLI `
 
-## Features
-- Super Admin Role - can view and manage everything happening in the website through admin panel.
-- Admin Role - can only manage blogs and categories.
-- Viewer can like and comment after login through social links.
+## Prerequisites
+- Express-generator commands (Get it's cheat sheet)
+- Sequelize-CLI commands (Get it's cheat sheet)
 
 ## Steps To Run The Application
+- Check `package.json` to view all dependencies and then install them using `npm install`
 - Set DB information in `config/config.json` file.
 - Create `.env` file from `.env.example` and update it if required.
-- Run the application 
+- Run the application using `npm start`
